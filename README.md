@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Google's Firebase API for C++, and the Rust programming language.
 
-<--
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ...
 -->
 
-<-- TODO(CrimsonCodes0): Totally rewrite this, and heavily personalize it. -->
+<!-- TODO(CrimsonCodes0): Totally rewrite this, and heavily personalize it. -->

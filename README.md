@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [SIMD.ts](https://github.com/CrimsonCodes0/SIMD.ts), and porting [NibbleAndAHalf](https://github.com/CrimsonCodes0/NibbleAndAHalf) to C++20.
 
-- 🌱 I’m currently learning Google's Firebase API for C++, and the Rust programming language.
+- 🌱 I’m currently learning the Rust programming language, and Google's Firebase API for C++.
 
 <!--
 - 👯 I’m looking to collaborate on ...

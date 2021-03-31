@@ -1,6 +1,6 @@
 ### Hi there 👋 ###
 
-I'm an avid supporter of XHTML and Wasm for use in web development supporter, but when I'm not involved in web development, I can be found working with hardware and circuitry, or compiling native code from C++.
+I'm an avid supporter of XHTML and Wasm for use in web development supporter, but when I'm not involved in web development, I can be found working with hardware and circuitry, or optimizing C++.
 
 - 🔭 I’m currently working on [SIMD.ts](https://github.com/CrimsonCodes0/SIMD.ts), and porting [NibbleAndAHalf](https://github.com/CrimsonCodes0/NibbleAndAHalf) to C++20.
 

@@ -1,6 +1,6 @@
 ### Hi there 👋 ###
 
-I'm known for being an HTML/CSS/JS detractor and an avid supporter of XHTML and Wasm for use in web development.
+I'm an HTML/CSS/JS detractor and an avid supporter of XHTML and Wasm for use in web development.
 
 When I'm not involved in web development, I can be found working with hardware and circuitry, or optimizing (low-level) code.
 

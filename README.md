@@ -1,8 +1,8 @@
 ### Hi there 👋 ###
 
-I'm an HTML/CSS/JS detractor and an avid supporter of XHTML and Wasm for use in web development.
+I'm an HTML/CSS/JS detractor, and an avid supporter of XHTML and Wasm for use in web development.
 
-When I'm not involved in web development, I can be found working with hardware and circuitry or optimizing (low-level) code.
+When I'm not involved in web development, I can be found working with hardware and circuitry, or optimizing (low-level) software code.
 
 - 🔭 I’m currently working on [SIMD.ts](https://github.com/CrimsonCodes0/SIMD.ts), and porting [NibbleAndAHalf](https://github.com/CrimsonCodes0/NibbleAndAHalf) to C++20.
 

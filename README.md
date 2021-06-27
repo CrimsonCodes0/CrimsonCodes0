@@ -17,6 +17,3 @@ When I'm not involved in web development, I can be found working with hardware a
 -->
 
 <!-- TODO(CrimsonCodes0): Rewrite this, and heavily personalize it. -->
-
-Some of my code-related writings:
-* [XHTML Introduction](https://xhtml-intro.xxperthacker.repl.co/index.xhtml)
